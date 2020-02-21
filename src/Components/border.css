@@ -1,0 +1,17 @@
+img {
+    border:solid 3px;
+    border-color: black;
+    max-height:100%;
+    max-width:100%;
+}
+  
+.border {
+    background-color: white; 
+    border: black 1px solid;
+    box-sizing:border-box;
+    display:inline-block;
+    margin: 5vh;
+    padding:5vmin;
+    position:relative;
+    text-align:center;
+}

@@ -11,3 +11,16 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+h2{
+  text-decoration: underline;
+}
+h3{
+  font-size: 1rem;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.info{
+  width: 75%;
+}
+.date{
+  margin-top: 8%;
+}
